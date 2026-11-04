@@ -18,14 +18,12 @@ To interface a digital sensor with an STM32 microcontroller and automatically co
 
 ## Algorithm
 
-
-<img width="380" height="316" alt="image" src="https://github.com/user-attachments/assets/44dec4f4-4e2b-4d79-aac4-29934c98edf6" />
+<img width="380" height="316" alt="WhatsApp Image 2026-11-04 at 10 02 05 AM" src="https://github.com/user-attachments/assets/f0db674f-d843-4f48-813d-13eb9b08a5ef" />
 
 
 ## Program
+<img width="922" height="602" alt="WhatsApp Image 2026-11-04 at 10 02 05 AM (1)" src="https://github.com/user-attachments/assets/1b9a18a6-70b1-4b06-b184-9e7a63c34051" />
 
-
-<img width="922" height="602" alt="image" src="https://github.com/user-attachments/assets/179d3eba-31e5-4c7e-aaac-a2ec3c272eaf" />
 
 
 ## Result
